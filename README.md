@@ -1,2 +1,8 @@
 # binfetch
-Custom bin for the Winfinibins project
+
+==^==
+|[[[|
+|[[[|
+'---' 
+binfetch
+Its like Neofetch but for Winfinibins.
