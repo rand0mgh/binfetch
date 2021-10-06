@@ -1,0 +1,2 @@
+echo type binfetch to run the normal binfetch
+echo type fetchbin to run a reversed variant.
